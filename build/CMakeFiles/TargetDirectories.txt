@@ -1,0 +1,3 @@
+/home/fooba/3504c/project-2-minesweeper-jchan1-dotedu/build/CMakeFiles/minesweeper.dir
+/home/fooba/3504c/project-2-minesweeper-jchan1-dotedu/build/CMakeFiles/edit_cache.dir
+/home/fooba/3504c/project-2-minesweeper-jchan1-dotedu/build/CMakeFiles/rebuild_cache.dir

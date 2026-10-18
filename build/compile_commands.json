@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/fooba/3504c/project-2-minesweeper-jchan1-dotedu/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/minesweeper.dir/game.cpp.o -c /home/fooba/3504c/project-2-minesweeper-jchan1-dotedu/game.cpp",
+  "file": "/home/fooba/3504c/project-2-minesweeper-jchan1-dotedu/game.cpp",
+  "output": "CMakeFiles/minesweeper.dir/game.cpp.o"
+},
+{
+  "directory": "/home/fooba/3504c/project-2-minesweeper-jchan1-dotedu/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/minesweeper.dir/main.cpp.o -c /home/fooba/3504c/project-2-minesweeper-jchan1-dotedu/main.cpp",
+  "file": "/home/fooba/3504c/project-2-minesweeper-jchan1-dotedu/main.cpp",
+  "output": "CMakeFiles/minesweeper.dir/main.cpp.o"
+}
+]

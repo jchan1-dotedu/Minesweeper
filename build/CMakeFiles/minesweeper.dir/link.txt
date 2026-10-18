@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/minesweeper.dir/game.cpp.o CMakeFiles/minesweeper.dir/main.cpp.o -o minesweeper  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-audio.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.6.1 
